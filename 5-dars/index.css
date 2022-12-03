@@ -1,0 +1,22 @@
+#container{
+display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+align-items: center;
+
+text-align: center;
+
+height: 900px;
+background-color: aqua;
+}
+
+
+.block{
+border: 1px solid red;
+width: 200px;
+height: 250px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
